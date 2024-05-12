@@ -1,6 +1,6 @@
 # Hi, this is Jason!
 I am actively looking for a job.<br>
-Currently targeting to get a job as a Data Scientist / AI Engineer specializing in Natural Language Processing.<br>
+Currently targeting to get a job as a Project Manager specializing in Natural Language Processing, Large Language Models.<br>
 If you are interested in hiring me, please kindly find the contact details and documents below.<br><br>
 
 ## Contact Details
