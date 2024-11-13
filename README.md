@@ -1,11 +1,10 @@
 # Hi, this is Jason!
-I am actively looking for a job.<br>
-Currently targeting to get a job as a Project Manager specializing in Natural Language Processing, Large Language Models.<br>
-If you are interested in hiring me, please kindly find the contact details and documents below.<br><br>
-
+I am currently in progress of founding a company named JoyLabs.<br>
+With my passion and enthusiasm in the field of Natural Language Processing, Large Language Models and Productivity, we are aiming to bring delights to job searching process.<br>
+If you are interested in investing, please feel free to contact me at :<br><br>
 ## Contact Details
 📱 : +82 10-4167-3900<br>
-📧 : [jason.heesang.lee96@gmail.com](mailto:jason.heesang.lee96@gmail.com)<br>
+📧 : [jason.lee@joylabs.space](mailto:jason.lee@joylabs.space)<br>
 
 | **CV** | **Portfolio** | **Notion** |
 | :---: | :---: | :---: | 
